@@ -4,15 +4,5 @@
     "api/verify.js": {
       "maxDuration": 30
     }
-  },
-  "env": [
-    {
-      "key": "EMAIL_USER",
-      "description": "Gmail address that receives FamApp notification emails"
-    },
-    {
-      "key": "EMAIL_APP_PASSWORD",
-      "description": "Gmail App Password (not your normal Gmail password)"
-    }
-  ]
+  }
 }
