@@ -1,7 +1,5 @@
 {
   "buildCommand": "npm install",
-  "framework": "nodejs",
-  "nodejs": "18.x",
   "functions": {
     "api/verify.js": {
       "maxDuration": 30
